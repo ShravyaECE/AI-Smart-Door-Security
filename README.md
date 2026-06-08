@@ -48,6 +48,12 @@ An AI-powered smart door security system that uses facial recognition to identif
 4. If the face is unknown, access is denied.
 5. The system can notify the owner about unauthorized access.
 
+## Demo Video
+
+🎥 Watch the project demo here:
+
+https://www.youtube.com/watch?v=sL_50FlUBAc
+
 ## Project Results
 
 ### Authorized User Detection
