@@ -48,6 +48,29 @@ An AI-powered smart door security system that uses facial recognition to identif
 4. If the face is unknown, access is denied.
 5. The system can notify the owner about unauthorized access.
 
+## Project Results
+
+### Authorized User Detection
+![Authorized](AI-Smart-Door-Security/authorized/authorized 1.webp)
+
+### Unauthorized User Detection
+![Unauthorized](AI-Smart-Door-Security/unauthorized/unauthorized 2.webp)
+
+
+## How to Run
+
+1. Install dependencies
+```bash
+pip install -r requirements.txt
+python train_model.py
+python encode_faces.py
+
+3.project architecture
+Workflow:
+
+Camera → Face Detection → Face Recognition → Access Decision → Door Unlock/Access Denied
+
+
 ## Author
-Shravya
+Ch.Shravya
 B.Tech ECE | KITSW
